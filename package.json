@@ -1,0 +1,22 @@
+{
+  "name": "moa",
+  "version": "0.0.1",
+  "description": "My Online Accountant",
+  "main": "server.js",
+  "scripts": {
+    "test": "console.log(\"error\");"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Grahamworth/moa.git"
+  },
+  "keywords": [
+    "MOA"
+  ],
+  "author": "Graham Hollingsworth",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/Grahamworth/moa/issues"
+  },
+  "homepage": "https://github.com/Grahamworth/moa#readme"
+}
